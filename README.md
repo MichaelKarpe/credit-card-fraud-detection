@@ -9,5 +9,5 @@ The aim of this project was to realize a comparative study between different out
 - Isolation Forest
 - Autoencoder
 
-The code is currently being cleaned by myself, and will be available soon.
+The code is available but has been left uncleaned.
 The final report of the project and the slides shown for both presentations - an economic presentation and a technical one - are available in the `doc` file (in French only).
